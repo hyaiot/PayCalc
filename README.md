@@ -89,11 +89,7 @@ PayCalc/
 
 ## 界面预览
 
-### 正算模式
-![正算模式](https://foruda.gitee.com/images/1775194605732546374/4f54c670_16892143.png "正算模式.png")
-
-### 反算模式
-![反算模式](https://foruda.gitee.com/images/1775194641855343097/22c84c6b_16892143.png "反算模式.png")
+[劳务报酬计算器](https://paycalc.hyw.cc.cd/)
 
 ## 浏览器支持
 
