@@ -7,13 +7,16 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {
     "vue": "^3.4.0"
   },
   "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.32.3",
     "@vitejs/plugin-vue": "^6.0.5",
-    "vite": "^8.0.3"
+    "vite": "^8.0.3",
+    "wrangler": "^4.83.0"
   }
 }
